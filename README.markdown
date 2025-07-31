@@ -1,6 +1,6 @@
-# Variational Autoencoder for Feature Generation
+# Generative Fusion of Synthetic Aperture Radar and Multispectral Data
 
-This project implements a Variational Autoencoder (VAE) with a probabilistic regressor for feature generation and prediction using TensorFlow and Keras. The model is trained with 5-fold cross-validation and evaluates performance using mean squared error and R² score. The code is modularized for better maintainability.
+This project implements a Deep Variational Autoencoder (VAE) with a probabilistic regressor for feature generation and prediction using TensorFlow and Keras. The model is trained with 5-fold cross-validation and evaluates performance using mean squared error and R² score. The code is modularized for better maintainability.
 
 ## Prerequisites
 
@@ -32,7 +32,7 @@ This project implements a Variational Autoencoder (VAE) with a probabilistic reg
 2. Update the `.npy` file paths in `src/data_processing.py` and `src/training.py` to point to your data.
 3. Run the main script:
    ```bash
-   python GenFeatures_NN.py
+   python main.py
    ```
 
 The script will:
@@ -43,7 +43,7 @@ The script will:
 
 ## Project Structure
 
-- `GenFeatures_NN.py`: Main script to orchestrate the workflow
+- `main.py`: Main script to orchestrate the workflow
 - `src/`
   - `__init__.py`: Package initialization
   - `data_processing.py`: Handles data loading and preprocessing
