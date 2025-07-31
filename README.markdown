@@ -2,6 +2,8 @@
 
 This project implements a Deep Variational Autoencoder (VAE) with a probabilistic regressor for feature generation and prediction using TensorFlow and Keras. The model is trained with 5-fold cross-validation and evaluates performance using MSE and R² score. The code is modularized for better maintainability.
 
+![Output](images/architecture.gif)
+
 ## Prerequisites
 
 - Python 3.8+
