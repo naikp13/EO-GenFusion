@@ -63,3 +63,18 @@ The script will:
 ## License
 
 This project is licensed under the MIT License.
+
+## Cite this work
+
+Please cite this article in case this method was helpful for your research or used for your work,
+
+```Citation
+Naik, P., Dalponte, M., & Bruzzone, L. (2022). Generative Feature Extraction From Sentinel 1 and 2 Data for Prediction of Forest Aboveground Biomass in the Italian Alps. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15, 4755–4771. https://doi.org/10.1109/jstars.2022.3179027
+```
+
+## Contact
+
+For issues or questions, open an issue on GitHub or contact [parthnaik1993@gmail.com](mailto:parthnaik1993@gmail.com).
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
