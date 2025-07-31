@@ -38,8 +38,8 @@ This project implements a Deep Variational Autoencoder (VAE) with a probabilisti
 The script will:
 - Load and standardize the data
 - Build and train the VAE model with 5-fold cross-validation
-- Save predictions to a `.npy` file
-- Print the mean squared error and R² score
+- Save predictions
+- Print the evaluation metrics (MAE and R² score)
 
 ## Project Structure
 
