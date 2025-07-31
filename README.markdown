@@ -12,8 +12,8 @@ This project implements a Deep Variational Autoencoder (VAE) with a probabilisti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/naikp13/hsi_enhancement.git
-   cd EO-GenFusion
+   git clone https://github.com/naikp13/GIMMEO.git
+   cd GIMMEO
    ```
 
 2. Create a virtual environment and activate it:
