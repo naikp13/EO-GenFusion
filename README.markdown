@@ -1,6 +1,6 @@
 # Generative Fusion of Synthetic Aperture Radar and Multispectral Data
 
-This project implements a Deep Variational Autoencoder (VAE) with a probabilistic regressor for feature generation and prediction using TensorFlow and Keras. The model is trained with 5-fold cross-validation and evaluates performance using mean squared error and R² score. The code is modularized for better maintainability.
+This project implements a Deep Variational Autoencoder (VAE) with a probabilistic regressor for feature generation and prediction using TensorFlow and Keras. The model is trained with 5-fold cross-validation and evaluates performance using MSE and R² score. The code is modularized for better maintainability.
 
 ## Prerequisites
 
